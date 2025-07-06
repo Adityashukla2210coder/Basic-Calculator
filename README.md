@@ -14,12 +14,12 @@ This is a beginner-friendly Android application developed using Kotlin and XML i
 - Instant results
 - Lightweight and fast
 ## ScreenShots
-![Calculator Screenshot](screenshots/ScreenShot-1_Basic_Calculator_AD.png)
-![Calculator Screenshot](screenshots/ScreenShot-2_Basic_Calculator_AD.png)
-![Calculator Screenshot](screenshots/ScreenShot-3_Basic_Calculator_AD.png)
-![Calculator Screenshot](screenshots/ScreenShot-4_Basic_Calculator_AD.png)
-![Calculator Screenshot](screenshots/ScreenShot-5_Basic_Calculator_AD.png)
-![Calculator Screenshot](screenshots/ScreenShot-6_Basic_Calculator_AD.png)
+![Calculator Screenshot](Screenshots/ScreenShot-1_Basic_Calculator_AD.png)
+![Calculator Screenshot](Screenshots/ScreenShot-2_Basic_Calculator_AD.png)
+![Calculator Screenshot](Screenshots/ScreenShot-3_Basic_Calculator_AD.png)
+![Calculator Screenshot](Screenshots/ScreenShot-4_Basic_Calculator_AD.png)
+![Calculator Screenshot](Screenshots/ScreenShot-5_Basic_Calculator_AD.png)
+![Calculator Screenshot](Screenshots/ScreenShot-6_Basic_Calculator_AD.png)
 ## Getting Started
 
 To run this project:
