@@ -29,5 +29,3 @@ To run this project:
 - Android Studio
 
 ---
-
-Feel free to modify this based on any additional features or UI customizations you've implemented. Want help creating the full `README.md` file too?
